@@ -5,7 +5,7 @@
 ---
 
 ## Introduction
-This is a prototype made in Unity, attempting to manage 2D collision situations within a brick breaker game by implementing a collision detection and resolution system between circles and rectangles. This was developed in the midst of my study in video game programming at College of Bois-de-Boulogne. This is one of the project made within the "Physics in video games" course (session 3 of 5).
+This is a prototype made in Unity, attempting to manage 2D collision situations within a brick breaker game by implementing a collision detection and resolution system between circles and rectangles. It was developed in the midst of my study in video game programming at College of Bois-de-Boulogne. This is one of the project made within the "Physics in video games" course (session 3 of 5).
 
 ## F.A.Q.
 
